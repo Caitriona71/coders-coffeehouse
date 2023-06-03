@@ -30,3 +30,7 @@ header > p {
 header {
 	background-color: black;
 }
+
+#home {
+    background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffeehouse.jpg');
+}
