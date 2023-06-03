@@ -31,6 +31,18 @@ header {
 	background-color: black;
 }
 
+#drinks {	
+	padding: 1rem 0;	
+	margin-bottom: 80px;	
+	background: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffee-beans.jpg') center center / cover no-repeat fixed;	
+}	
+.text-white {	
+	color: #FFFFFF;	
+}	
+.black-background {	
+    background-color: black;	
+}
+
 #home {
     background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffeehouse.jpg');
 }
