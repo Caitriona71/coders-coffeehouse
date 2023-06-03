@@ -52,6 +52,37 @@ header {
 	background: center 75% / cover no-repeat;
 }
 
+.form-page-header {	
+	background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/table.jpg')	
+}	
+.text-center {	
+    text-align: center;	
+}	
+.text-right {	
+    text-align: right;	
+}	
+strong {	
+	font-size: 1.3rem;	
+}	
+.text-uppercase {	
+    text-transform: uppercase;	
+}	
+.underline {	
+	text-decoration: underline;	
+}	
+nav {	
+	padding: 1rem;	
+}	
+nav > a {	
+	text-decoration: none;	
+	color: beige;
+    margin: 1rem;	
+}	
+nav > a:hover {	
+	color: silver;	
+}	
+
+
 #coffee-box {
 	background-color: brown;
     position: relative;
