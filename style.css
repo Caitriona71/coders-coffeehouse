@@ -34,3 +34,8 @@ header {
 #home {
     background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffeehouse.jpg');
 }
+
+.page-header {
+	height: 50vh;
+	background: center 75% / cover no-repeat;
+}
