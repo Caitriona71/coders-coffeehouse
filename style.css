@@ -59,3 +59,42 @@ header {
     right: 70px;
     top: -15px;
 }
+
+/* padding to allow for fixed footer */
+#contact {
+    margin-bottom: 50px;
+}
+
+.contact-boxes-container {
+    width: 66%;
+    margin: 0 auto;
+}
+
+.contact-box-left {
+    width: 250px;
+    margin-top: -20px;
+	float: left;
+}
+
+.contact-box-right {
+    width: 250px;
+    text-align: right;
+    margin-top: -20px;
+	float: right;
+}
+
+.spacer {
+    clear: both;
+}
+
+.contact-box-center {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+th,
+td {
+    border-bottom: 1px solid black;
+}
