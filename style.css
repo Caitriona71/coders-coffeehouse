@@ -119,6 +119,35 @@ img {
     top: -15px;
 }
 
+.vertical-center {	
+    position: relative;	
+    top: 30%;	
+}	
+.one-third-width-column {	
+    width: 33.33%;	
+    display: inline-block;	
+}	
+.two-thirds-width-column {	
+    width: 66.66%;	
+    display: inline-block;	
+}	
+
+.reasons-box {	
+	padding: 10px 5px 25px 5px;	
+	border-radius: 8px;	
+	width: 100%;	
+	margin: 2%;	
+	background-color: chocolate;	
+    position: relative;	
+    left: 20%;	
+    top: 30px;	
+}	
+.drinks-box {	
+	width: 33%;	
+	margin: 1rem 0;	
+	display: inline-block;	
+}
+
 /* padding to allow for fixed footer */
 #contact {
     margin-bottom: 50px;
