@@ -111,3 +111,35 @@ td {
     width: 100%;
     border: none;
 }
+
+
+footer {
+	background-color: #6f4e37;
+	padding: 1em;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
+}
+
+fieldset {
+	border: none;
+	margin-top: 20px;
+}
