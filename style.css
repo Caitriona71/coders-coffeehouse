@@ -39,3 +39,10 @@ header {
 	height: 50vh;
 	background: center 75% / cover no-repeat;
 }
+
+#coffee-box {
+	background-color: brown;
+    position: relative;
+    left: 70px;
+    top: -15px;
+}
