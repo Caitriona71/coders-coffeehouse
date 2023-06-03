@@ -98,3 +98,16 @@ th,
 td {
     border-bottom: 1px solid black;
 }
+
+/* map */
+#map-wrapper {
+
+    height: 300px;
+    margin-bottom: 107px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
